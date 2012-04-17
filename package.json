@@ -1,0 +1,12 @@
+{
+  "name": "passport-photo-middleware",
+  "version": "0.0.1-beta1",
+  "description": "Middleware to attach avatars to users in connect.",
+  "main": "./index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tuskan360/passport-photo-middleware.git"
+  },
+  "dependencies": {
+  }
+}
