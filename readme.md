@@ -1,5 +1,7 @@
 # Passport Photo Middleware
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/passport-photo-middleware.svg)](https://greenkeeper.io/)
+
 ## Installation
 
     npm install passport-photo-middleware
